@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: d0cdf4df6a36638468d645845cd30365
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pPlane1_Tree
+    100004: pPyramid1
+    100006: pSphere1
+    100008: tree_2:pPlane1_tree_2:Tree
+    100010: tree_2:Tree_tree_2:pCylinder1
+    100012: tree_2:Tree_tree_2:pPlane2
+    100014: tree_2:Tree_tree_2:pPlane3
+    100016: tree_2:Tree_tree_2:pPlane4
+    100018: tree_2:Tree_tree_2:pPlane5
+    100020: tree_2:Tree_tree_2:pPlane6
+    100022: tree_2:Tree_tree_2:pPlane7
+    100024: tree_2:Tree_tree_2:pPlane8
+    100026: Tree_pCylinder1
+    100028: Tree_pPlane2
+    100030: Tree_pPlane3
+    100032: Tree_pPlane4
+    100034: Tree_pPlane5
+    100036: Tree_pPlane6
+    100038: Tree_pPlane7
+    100040: Tree_pPlane8
+    400000: //RootNode
+    400002: pPlane1_Tree
+    400004: pPyramid1
+    400006: pSphere1
+    400008: tree_2:pPlane1_tree_2:Tree
+    400010: tree_2:Tree_tree_2:pCylinder1
+    400012: tree_2:Tree_tree_2:pPlane2
+    400014: tree_2:Tree_tree_2:pPlane3
+    400016: tree_2:Tree_tree_2:pPlane4
+    400018: tree_2:Tree_tree_2:pPlane5
+    400020: tree_2:Tree_tree_2:pPlane6
+    400022: tree_2:Tree_tree_2:pPlane7
+    400024: tree_2:Tree_tree_2:pPlane8
+    400026: Tree_pCylinder1
+    400028: Tree_pPlane2
+    400030: Tree_pPlane3
+    400032: Tree_pPlane4
+    400034: Tree_pPlane5
+    400036: Tree_pPlane6
+    400038: Tree_pPlane7
+    400040: Tree_pPlane8
+    2100000: lambert4SG
+    2100002: blinn1SG
+    2100004: phong1SG
+    2100006: tree_2_lambert4SG
+    2100008: tree_2_lambert2SG
+    2100010: tree_2_lambert3SG
+    2100012: tree_2_lambert5SG
+    2100014: lambert2SG
+    2100016: lambert3SG
+    2100018: lambert5SG
+    2300000: pPlane1_Tree
+    2300002: pPyramid1
+    2300004: pSphere1
+    2300006: tree_2:pPlane1_tree_2:Tree
+    2300008: tree_2:Tree_tree_2:pCylinder1
+    2300010: tree_2:Tree_tree_2:pPlane2
+    2300012: tree_2:Tree_tree_2:pPlane3
+    2300014: tree_2:Tree_tree_2:pPlane4
+    2300016: tree_2:Tree_tree_2:pPlane5
+    2300018: tree_2:Tree_tree_2:pPlane6
+    2300020: tree_2:Tree_tree_2:pPlane7
+    2300022: tree_2:Tree_tree_2:pPlane8
+    2300024: Tree_pCylinder1
+    2300026: Tree_pPlane2
+    2300028: Tree_pPlane3
+    2300030: Tree_pPlane4
+    2300032: Tree_pPlane5
+    2300034: Tree_pPlane6
+    2300036: Tree_pPlane7
+    2300038: Tree_pPlane8
+    3300000: pPlane1_Tree
+    3300002: pPyramid1
+    3300004: pSphere1
+    3300006: tree_2:pPlane1_tree_2:Tree
+    3300008: tree_2:Tree_tree_2:pCylinder1
+    3300010: tree_2:Tree_tree_2:pPlane2
+    3300012: tree_2:Tree_tree_2:pPlane3
+    3300014: tree_2:Tree_tree_2:pPlane4
+    3300016: tree_2:Tree_tree_2:pPlane5
+    3300018: tree_2:Tree_tree_2:pPlane6
+    3300020: tree_2:Tree_tree_2:pPlane7
+    3300022: tree_2:Tree_tree_2:pPlane8
+    3300024: Tree_pCylinder1
+    3300026: Tree_pPlane2
+    3300028: Tree_pPlane3
+    3300030: Tree_pPlane4
+    3300032: Tree_pPlane5
+    3300034: Tree_pPlane6
+    3300036: Tree_pPlane7
+    3300038: Tree_pPlane8
+    4300000: pPlane1_Tree
+    4300002: pPyramid1
+    4300004: pSphere1
+    4300006: tree_2:pPlane1_tree_2:Tree
+    4300008: tree_2:Tree_tree_2:pCylinder1
+    4300010: tree_2:Tree_tree_2:pPlane2
+    4300012: tree_2:Tree_tree_2:pPlane3
+    4300014: tree_2:Tree_tree_2:pPlane4
+    4300016: tree_2:Tree_tree_2:pPlane5
+    4300018: tree_2:Tree_tree_2:pPlane6
+    4300020: tree_2:Tree_tree_2:pPlane7
+    4300022: tree_2:Tree_tree_2:pPlane8
+    4300024: Tree_pCylinder1
+    4300026: Tree_pPlane2
+    4300028: Tree_pPlane3
+    4300030: Tree_pPlane4
+    4300032: Tree_pPlane5
+    4300034: Tree_pPlane6
+    4300036: Tree_pPlane7
+    4300038: Tree_pPlane8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
